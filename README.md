@@ -150,7 +150,7 @@ Breadth-first search is one of the main algorithms (that's right, you've conquer
 Can you modify the breadth-first search algorithm in such a way that it will traverse both nested objects and nested arrays (or even — gasp! — a mix of both)?
 
 ## Resources
-
+-
 - [breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/traversing-nested-objects'>Traversing Nested Objects</a> on Learn.co and start learning to code for free.</p>
